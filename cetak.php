@@ -60,7 +60,7 @@
 </table>
 <br><br><br><br><br><br><br><br>
 <hr>
-  <center><p>&copy; Hikam aramdan</p></center>
+  <center><p>&copy; Zaki Listian</p></center>
 </body>
 
 </html>
